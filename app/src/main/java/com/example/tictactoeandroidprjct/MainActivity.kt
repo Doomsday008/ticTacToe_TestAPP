@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
                 board[i][j].text = ""
             }
         }
+        updatedisplay( "Player 1st(X) Turn")
 
     }
 
